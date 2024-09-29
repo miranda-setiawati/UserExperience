@@ -1,0 +1,2 @@
+# UserExperience
+ RAiso is a renowned online store that specializes in selling stationery products. With its ever-growing popularity, the management of transaction data has become a challenging task. To address this issue, you have been approached to assist RAiso in effectively managing their database transactions. By implementing robust systems and processes, we aim to streamline the transactional data flow, ensuring smooth and efficient operations. 
